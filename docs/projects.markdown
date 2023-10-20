@@ -6,15 +6,42 @@ permalink: /projects
 
 This is a page with projects I have worked on during my academic journey.
 
-## <img src="projects/render_files/cornell_logo.png" alt="image" width="5%" height="auto"> projects at Cornell University 
+## <img src="projects/render_files/cornell_logo.png" alt="image" width="5%" height="auto"> Projects at Cornell University 
+---
 
 * [Worst-Case Value at Risk](projects/cornell/worst-case_value_at_risk/ORIE5370___Project.pdf) - a project on non-linear portfolios allocation and adequately accounting for the shared uncertainty between derivatives and the underlying asset. 
 
 
-Comparison of the Methods  |  Risk - Return Trade-Off Using Standard Methods 
+Comparison of the Methods  |  Risk-Return Trade-Off Using Normal VaR 
 :-------------------------:|:-------------------------:
 ![](projects/cornell/worst-case_value_at_risk/comparison_3_methods.png)  |  ![](projects/cornell/worst-case_value_at_risk/performance_metrics_norm.png)
 
-* [Hawkes Processes](projects/cornell/slides_hawkess_processes.pdf)
+---
 
-* [UBS Trading Insights: An Analysis of Daily and Intraday Trading Activities](projects/cornell/fin_stat_projects/ORIE5640_project_2.pdf) 
+* [Hawkes Processes](projects/cornell/slides_hawkess_processes.pdf) - a presentation on properties of Hawkes Processes and how they can be used to model micronoise structure. Kudos to Dean Markwick for an amazing and intuitive [blog](https://dm13450.github.io/2022/05/11/modelling-microstructure-noise-using-hawkes-processes.html) on the topic.
+
+---
+
+* [UBS Trading Insights: An Analysis of Daily and Intraday Trading Activities](projects/cornell/fin_stat_projects/ORIE5640_project_2.pdf) - an analysis during the UBS-CS merger to understand trading activities during the acquisition. We GARCH-type models on daily price dynamics and conduct analysis on 5-min intra day volumes.
+
+Intraday profile of log volumes   |  Distribution of log volumes during merger
+:-------------------------:|:-------------------------:
+![](projects/cornell/fin_stat_projects/min5_vs_log_volume.png)  |  ![](projects/cornell/fin_stat_projects/mean_variance_before.png)
+
+--- 
+
+
+
+## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during MSc
+---
+
+* [Numerical Methods for Stochastic Differential Equations with Applications to Electricity Futures](projects/dtu_during_msc/numerical_methods_for_diff_eq/Numerical_Methods_for_Stochastic_Differential_Equations_and_Levy_Processes.pdf) - a comprehensive report were we develop a method to quantify the market risk premium in electricity markets and apply higher order stochastic Runge-Kutta methods to improve estimation of
+parameters. 
+
+Comparison of Strong Order in Integration Scheme   |  Identified Prices Spikes During the Period
+:-------------------------:|:-------------------------:
+![](projects/dtu_during_msc/numerical_methods_for_diff_eq/error_plot.png)  |  ![](projects/dtu_during_msc/numerical_methods_for_diff_eq/short_lm_log_spikes_identified.png)
+
+--- 
+
+* [**Publication**: Grey-box modeling for hot-spot temperature prediction of oil-immersed transformers in power distribution networks](https://www.sciencedirect.com/science/article/pii/S2352467723000565?via%3Dihub) - a publication were we developed a grey-box model to be used for online estimation and forecasting of the temperature inside a temperature. Publiched in *Sustainable Energy, Grids and Networks*.
