@@ -6,6 +6,8 @@ permalink: /projects
 
 This is a page with projects I have worked on during my academic journey.
 
+
+
 ## <img src="projects/render_files/cornell_logo.png" alt="image" width="5%" height="auto"> Projects at Cornell University 
 ---
 
@@ -37,12 +39,18 @@ Daily log returns |  Fitted skewed multivatiate t-distribution
 :-------------------------:|:-------------------------:
 ![](projects/cornell/fin_stat_projects/log_ret_vs_log_ret.png)  |  ![](projects/cornell/fin_stat_projects/multi_var_t_energy.png)
 
---- 
 
 
 
-## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during MSc
+
+
+
+
+
+## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during MSc in Mathematical Modelling and Computation
 ---
+
+
 
 * [Numerical Methods for Stochastic Differential Equations with Applications to Electricity Futures](projects/dtu_during_msc/numerical_methods_for_diff_eq/Numerical_Methods_for_Stochastic_Differential_Equations_and_Levy_Processes.pdf) - a comprehensive report were we develop a method to quantify the market risk premium in electricity markets and apply higher order stochastic Runge-Kutta methods to improve estimation of
 parameters. 
