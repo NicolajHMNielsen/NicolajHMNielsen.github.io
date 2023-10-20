@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "starting the blog"
 date:   2023-09-28 13:51:00 +0200
 categories: initial
 ---
