@@ -31,6 +31,15 @@ Intraday profile of log volumes   |  Distribution of log volumes during merger
 --- 
 
 
+* [A Stock Comparison of Shell and Vestas under the COVID-19 crisis and the 2021-2023 Energy Crisis](projects/cornell/fin_stat_projects/ORIE5640___Project_1.pdf) - a comparison on the impacts of the COVID-19 and the recent european energy crisis on Shell and Vestas. 
+
+Daily log returns |  Fitted skewed multivatiate t-distribution
+:-------------------------:|:-------------------------:
+![](projects/cornell/fin_stat_projects/log_ret_vs_log_ret.png)  |  ![](projects/cornell/fin_stat_projects/multi_var_t_energy.png)
+
+--- 
+
+
 
 ## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during MSc
 ---
