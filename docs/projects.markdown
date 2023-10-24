@@ -126,7 +126,7 @@ parameters.
 
 <br/><br/>
 
-> [**BSc thesis**: Offshore Intermittency Risk - Recent methods in the cross-section of time series machine learning, and dynamical systems](projects/dtu_during_bsc/bsc/BSc_thesis_S184335.pdf) - Offshore Intermittency Risk - Recent methods in the cross-section of time series machine learning, and dynamical systems](projects/dtu_during_bsc/bsc/BSc_thesis_S184335.pdf) - renewable power generators are subjected to increasing price risk due to the intermittency of their power production. Their production-weighted prices are often far from the average market prices, which poses a challenge for hedging purposes; thus, predicting the difference between the averages is of enormous interest. I had the honor of having [Professor Pierre Pinson](http://pierrepinson.com) as my supervisor.
+> [**BSc thesis**: Offshore Intermittency Risk - Recent methods in the cross-section of time series machine learning, and dynamical systems](projects/dtu_during_bsc/bsc/BSc_thesis_S184335.pdf)  - renewable power generators are subjected to increasing price risk due to the intermittency of their power production. Their production-weighted prices are often far from the average market prices, which poses a challenge for hedging purposes; thus, predicting the difference between the averages is of enormous interest. I had the honor of having [Professor Pierre Pinson](http://pierrepinson.com) as my supervisor.
 
 <div style="display: flex;">
     <figure style="flex: 1; padding: 10px; text-align: center;">
