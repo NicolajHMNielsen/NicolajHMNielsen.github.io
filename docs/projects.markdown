@@ -24,6 +24,28 @@ Comparison of the Methods | Risk-Return Trade-Off Using Normal VaR
 ![Comparison of the Methods](projects/cornell/worst-case_value_at_risk/comparison_3_methods.png) | ![Risk-Return Trade-Off Using Normal VaR](projects/cornell/worst-case_value_at_risk/performance_metrics_norm.png)
 
 
+<div style="display: flex;">
+    <figure style="flex: 1; padding: 10px; text-align: center;">
+        <img src="projects/cornell/worst-case_value_at_risk/comparison_3_methods.png" style="max-width: 100%; height: auto;">
+        <figcaption>Comparison of the Methods</figcaption>
+    </figure>
+    <figure style="flex: 1; padding: 10px; text-align: center;">
+        <img src="projects/cornell/worst-case_value_at_risk/performance_metrics_norm.png" style="max-width: 100%; height: auto;">
+        <figcaption>Risk-Return Trade-Off Using Normal VaR</figcaption>
+    </figure>
+</div>
+
+<div style="display: flex;">
+    <figure style="flex: 1; padding: 10px; text-align: center;">
+        <img src="projects/cornell/worst-case_value_at_risk/comparison_3_methods.png" style="max-width: 100%; height: auto;">
+        <figcaption style="margin: 0;">Comparison of the Methods</figcaption>
+    </figure>
+    <figure style="flex: 1; padding: 10px; text-align: center;">
+        <img src="projects/cornell/worst-case_value_at_risk/performance_metrics_norm.png" style="max-width: 100%; height: auto;">
+        <figcaption style="margin: 0;">Risk-Return Trade-Off Using Normal VaR</figcaption>
+    </figure>
+</div>
+
 
 > [Hawkes Processes](projects/cornell/slides_hawkess_processes.pdf) - a presentation on properties of Hawkes Processes and how they can be used to model micronoise structure. Kudos to Dean Markwick for an amazing and intuitive [blog](https://dm13450.github.io/2022/05/11/modelling-microstructure-noise-using-hawkes-processes.html) on the topic.
 
