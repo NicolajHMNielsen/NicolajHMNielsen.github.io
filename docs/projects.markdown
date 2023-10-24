@@ -8,12 +8,15 @@ permalink: /projects
 
 <br/><br/><br/>
 
-### <img src="projects/render_files/cornell_logo.png" alt="image" width="5%" height="auto"> projects at Cornell University during spring 2023
+## <img src="projects/render_files/cornell_logo.png" alt="image" width="5%" height="auto"> projects at Cornell University, spring 2023
+
+*MSc Mathematical Modelling and Computation - Exchange Semester*
+
 ---
 <br/><br/>
 
 
-> [Worst-Case Value at Risk](projects/cornell/worst-case_value_at_risk/ORIE5370___Project.pdf) - a project on non-linear portfolios allocation and adequately accounting for the shared uncertainty between derivatives and the underlying asset. 
+> [Worst-Case Value at Risk](projects/cornell/worst-case_value_at_risk/ORIE5370___Project.pdf) - a project on non-linear portfolio allocation and adequately accounting for the shared uncertainty between derivatives and the underlying asset. 
 
 <div style="display: flex;">
     <figure style="flex: 1; padding: 10px; text-align: center;">
@@ -30,10 +33,10 @@ permalink: /projects
 
 
 
-> [Hawkes Processes](projects/cornell/slides_hawkess_processes.pdf) - a presentation on properties of Hawkes Processes and how they can be used to model micronoise structure. Kudos to Dean Markwick for an amazing and intuitive [blog](https://dm13450.github.io/2022/05/11/modelling-microstructure-noise-using-hawkes-processes.html) on the topic.
+> [Hawkes Processes](projects/cornell/slides_hawkess_processes.pdf) - a presentation on the properties of Hawkes Processes and how they can be used to model micronoise structure. Kudos to Dean Markwick for an amazing and intuitive [blog](https://dm13450.github.io/2022/05/11/modelling-microstructure-noise-using-hawkes-processes.html) on the topic.
 
 
-> [UBS Trading Insights: An Analysis of Daily and Intraday Trading Activities](projects/cornell/fin_stat_projects/ORIE5640_project_2.pdf) - an analysis during the UBS-CS merger to understand trading activities during the acquisition. We GARCH-type models on daily price dynamics and conduct analysis on 5-min intra day volumes.
+> [UBS Trading Insights: An Analysis of Daily and Intraday Trading Activities](projects/cornell/fin_stat_projects/ORIE5640_project_2.pdf) - an analysis during the UBS-CS merger to understand trading activities during the acquisition. We use GARCH-type models on daily price dynamics and analyze 5-min intraday volumes.
 <div style="display: flex;">
     <figure style="flex: 1; padding: 10px; text-align: center;">
         <img src="projects/cornell/fin_stat_projects/min5_vs_log_volume.png" style="max-width: 100%; max-height: 300px;">
@@ -50,7 +53,7 @@ permalink: /projects
 
 
 
-> [A Stock Comparison of Shell and Vestas under the COVID-19 crisis and the 2021-2023 Energy Crisis](projects/cornell/fin_stat_projects/ORIE5640___Project_1.pdf) - a comparison on the impacts of the COVID-19 and the recent european energy crisis on Shell and Vestas. 
+> [A Stock Comparison of Shell and Vestas under the COVID-19 crisis and the 2021-2023 Energy Crisis](projects/cornell/fin_stat_projects/ORIE5640___Project_1.pdf) - a comparison on the impacts of the COVID-19 and the recent European energy crisis on Shell and Vestas. 
 
 <div style="display: flex;">
     <figure style="flex: 1; padding: 10px; text-align: center;">
@@ -67,7 +70,11 @@ permalink: /projects
 <br/>
 
 
-### <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during MSc in Mathematical Modelling and Computation
+## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> projects at DTU, 2022 
+
+
+*MSc Mathematical Modelling and Computation*
+
 ---
 
 <br/><br/>
@@ -89,35 +96,49 @@ parameters.
 
 
 
-> [**Publication**: Grey-box modeling for hot-spot temperature prediction of oil-immersed transformers in power distribution networks](https://www.sciencedirect.com/science/article/pii/S2352467723000565?via%3Dihub) - a publication were we developed a grey-box model to be used for online estimation and forecasting of the temperature inside a temperature. Publiched in *Sustainable Energy, Grids and Networks*.
+> [**Publication**: Grey-box modeling for hot-spot temperature prediction of oil-immersed transformers in power distribution networks](https://www.sciencedirect.com/science/article/pii/S2352467723000565?via%3Dihub) - a publication where we develope a grey-box model for online estimation and forecasting of the temperature inside a oil-immersed transformer. Published in *Sustainable Energy, Grids and Networks*.
 
 
 
-> [Mixed-Effects Models](projects/dtu_during_msc/02424/02424___Assignment_3.pdf) - a comprehensive report were we work with mixed-effects models.
+> [Mixed-Effects Models](projects/dtu_during_msc/02424/02424___Assignment_3.pdf) - a comprehensive report where we work with mixed-effects models.
 
 <div style="display: flex;">
     <figure style="flex: 1; padding: 10px; text-align: center;">
-        <img src="projects/dtu_during_msc/02424/variations.png" style="max-width: 100%; max-height: 300px;">
+        <img src="projects/dtu_during_msc/02424/variations.png" style="max-width: 100%; max-height: 200px;">
         <figcaption>Partitioning of Variation</figcaption>
-    </figure>
-    <figure style="flex: 1; padding: 10px; text-align: center;">
-        <img src="projects/dtu_during_msc/02424/normScaledResid.png" style="max-width: 100%; max-height: 300px;">
-        <figcaption>Normalized Residuals</figcaption>
     </figure>
 </div>
  
 
 > [Constrained Optimization](projects/dtu_during_msc/exam_constrained_optimization.pdf) - a comprehensive report on the topic of constrained optimization.
 
-> [Modelling of Electricity Futures](projects/dtu_during_msc/Modelling_Electricity_Futures.pdf) - a comprehensive report on statistical modelling of electricity futures with focus on spreads.
+> [Modelling of Electricity Futures](projects/dtu_during_msc/Modelling_Electricity_Futures.pdf) - a comprehensive report on statistical modelling of electricity futures with a focus on spreads.
 
 > [Credit Value Adjustments](projects/dtu_during_msc/Assignment_2.pdf) - a small project on credit value adjustments.
 
+<br/>
 
-### <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during BSc in Mathematics and Technology
+## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> projects at DTU, 2019-2021
+
+*BSc in Mathematics and Technology*
+
 ---
 
 <br/><br/>
+
+> [**BSc thesis**: Offshore Intermittency Risk - Recent methods in the cross-section of time series machine learning, and dynamical systems](projects/dtu_during_bsc/bsc/BSc_thesis_S184335.pdf) - Offshore Intermittency Risk - Recent methods in the cross-section of time series machine learning, and dynamical systems](projects/dtu_during_bsc/bsc/BSc_thesis_S184335.pdf) - renewable power generators are subjected to increasing price risk due to the intermittency of their power production. Their production-weighted prices are often far from the average market prices, which poses a challenge for hedging purposes; thus, predicting the difference between the averages is of enormous interest. I had the honor of having [Professor Pierre Pinson](http://pierrepinson.com) as my supervisor.
+
+<div style="display: flex;">
+    <figure style="flex: 1; padding: 10px; text-align: center;">
+        <img src="projects/dtu_during_bsc/bsc/intuitionHour6.png" style="max-width: 100%; max-height: 300px;">
+        <figcaption>Local Linear Regression</figcaption>
+    </figure>
+    <figure style="flex: 1; padding: 10px; text-align: center;">
+        <img src="projects/dtu_during_bsc/bsc/LGBMBetterParam20-04-01.png" style="max-width: 100%; max-height: 300px;">
+        <figcaption>LGBM quantile forecast for each hour 3 days ahead.</figcaption>
+    </figure>
+</div>
+
 
 > [Neural ODE](projects/dtu_during_bsc/neural_ode/report_neural_ode.pdf) - we followed ideas by Dr. Christopher Rackauckas now drafted into his [book](https://book.sciml.ai). During the project we also made two blog posts; one one [augmented neural ODEs](https://nicolajhmnielsen.github.io/SciML_DTU/ANODE/HTML/Augmented) and [another](https://nicolajhmnielsen.github.io/SciML_DTU/ANODE/HTML/Hidden_bears) were we explore dynamics in the augmented dimensions.
 
