@@ -4,11 +4,11 @@ title: projects
 permalink: /projects
 ---
 
-This is a page with projects I have worked on during my academic journey.
 
 
+<br/><br/><br/>
 
-## <img src="projects/render_files/cornell_logo.png" alt="image" width="5%" height="auto"> Projects at Cornell University 
+### <img src="projects/render_files/cornell_logo.png" alt="image" width="5%" height="auto"> projects at Cornell University during spring 2023
 ---
 <br/><br/>
 
@@ -32,7 +32,6 @@ This is a page with projects I have worked on during my academic journey.
 
 > [Hawkes Processes](projects/cornell/slides_hawkess_processes.pdf) - a presentation on properties of Hawkes Processes and how they can be used to model micronoise structure. Kudos to Dean Markwick for an amazing and intuitive [blog](https://dm13450.github.io/2022/05/11/modelling-microstructure-noise-using-hawkes-processes.html) on the topic.
 
----
 
 > [UBS Trading Insights: An Analysis of Daily and Intraday Trading Activities](projects/cornell/fin_stat_projects/ORIE5640_project_2.pdf) - an analysis during the UBS-CS merger to understand trading activities during the acquisition. We GARCH-type models on daily price dynamics and conduct analysis on 5-min intra day volumes.
 <div style="display: flex;">
@@ -65,10 +64,10 @@ This is a page with projects I have worked on during my academic journey.
 </div>
 
 
-<br/><br/><br/>
+<br/>
 
 
-## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during MSc in Mathematical Modelling and Computation
+### <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during MSc in Mathematical Modelling and Computation
 ---
 
 <br/><br/>
@@ -115,7 +114,7 @@ parameters.
 > [Credit Value Adjustments](projects/dtu_during_msc/Assignment_2.pdf) - a small project on credit value adjustments.
 
 
-## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during BSc in Mathematics and Technology
+### <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> Projects at DTU during BSc in Mathematics and Technology
 ---
 
 <br/><br/>
