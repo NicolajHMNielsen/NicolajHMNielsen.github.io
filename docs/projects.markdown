@@ -70,7 +70,7 @@ permalink: /projects
 <br/>
 
 
-## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> projects at DTU, 2022 
+## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto">  projects at DTU, 2022 
 
 
 *MSc Mathematical Modelling and Computation*
@@ -102,7 +102,7 @@ parameters.
 
 > [Mixed-Effects Models](projects/dtu_during_msc/02424/02424___Assignment_3.pdf) - a comprehensive report where we work with mixed-effects models.
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
     <figure style="flex: 1; padding: 10px; text-align: center;">
         <img src="projects/dtu_during_msc/02424/variations.png" style="max-width: 100%; max-height: 200px;">
         <figcaption>Partitioning of Variation</figcaption>
@@ -118,7 +118,7 @@ parameters.
 
 <br/>
 
-## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto"> projects at DTU, 2019-2021
+## <img src="projects/render_files/DTU_logo_black.png" alt="image" width="5%" height="auto">  projects at DTU, 2019-2021
 
 *BSc in Mathematics and Technology*
 
