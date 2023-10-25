@@ -5,8 +5,7 @@ permalink: /projects
 ---
 
 
-
-<br/><br/><br/>
+<br/><br/>
 
 ## <img src="projects/render_files/cornell_logo.png" alt="image" width="5%" height="auto"> projects at Cornell University, spring 2023
 
