@@ -92,7 +92,7 @@ parameters.
     </figure>
 </div>
 
-
+> [Diffusion and Stochastic Differential Equations](projects/dtu_during_msc/sde_slides_exam.pdf) - a comprehensive presentation summarizing a course on diffusions and stochastic differential equations.
 
 
 > [**Publication**: Grey-box modeling for hot-spot temperature prediction of oil-immersed transformers in power distribution networks](https://www.sciencedirect.com/science/article/pii/S2352467723000565?via%3Dihub) - a publication where we develope a grey-box model for online estimation and forecasting of the temperature inside a oil-immersed transformer. Published in *Sustainable Energy, Grids and Networks*.
