@@ -32,7 +32,7 @@ permalink: /projects
 
 
 
-> [Hawkes Processes](projects/cornell/slides_hawkess_processes.pdf) - a presentation on the properties of Hawkes Processes and how they can be used to model micronoise structure. Kudos to Dean Markwick for an amazing and intuitive [blog](https://dm13450.github.io/2022/05/11/modelling-microstructure-noise-using-hawkes-processes.html) on the topic.
+> [Hawkes Processes](projects/cornell/slides_hawkes_processes.pdf) - a presentation on the properties of Hawkes Processes and how they can be used to model micronoise structure. Kudos to Dean Markwick for an amazing and intuitive [blog](https://dm13450.github.io/2022/05/11/modelling-microstructure-noise-using-hawkes-processes.html) on the topic.
 
 
 > [UBS Trading Insights: An Analysis of Daily and Intraday Trading Activities](projects/cornell/fin_stat_projects/ORIE5640_project_2.pdf) - an analysis during the UBS-CS merger to understand trading activities during the acquisition. We use GARCH-type models on daily price dynamics and analyze 5-min intraday volumes.
