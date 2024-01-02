@@ -103,7 +103,7 @@ parameters.
 
 <div style="display: flex; justify-content: center;">
     <figure style="flex: 1; padding: 10px; text-align: center;">
-        <img src="projects/dtu_during_msc/02424/variations.png" style="max-width: 100%; max-height: 200px;">
+        <img src="projects/dtu_during_msc/02424/variations.png" style="max-width: 100%; max-height: 200px; margin: 0 auto;">
         <figcaption>Partitioning of Variation</figcaption>
     </figure>
 </div>
